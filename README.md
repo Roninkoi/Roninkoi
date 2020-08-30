@@ -2,7 +2,7 @@
 
 I try to imitate the real world inside computers
 
-- Cool short link to my website using Unicode: [https://㎦.ﬁ](㎦.ﬁ)
+- Cool short link to my website using Unicode: [㎦.ﬁ](https://㎦.ﬁ)
 - Other me: [https://gitlab.com/Roninkoi](https://gitlab.com/Roninkoi)
 
 <!--
