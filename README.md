@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Ron(i) 🐉
+
+I try to imitate the real world inside computers
+
+- Cool short link to my website using Unicode: [㎦.ﬁ](㎦.ﬁ)
+- Other me: [https://gitlab.com/Roninkoi](https://gitlab.com/Roninkoi)
 
 <!--
 **Roninkoi/Roninkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
