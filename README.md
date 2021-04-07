@@ -5,9 +5,14 @@ I try to imitate the real world inside computers
 - Cool short link to my website using Unicode: [㎦.ﬁ](https://㎦.ﬁ)
 - Other me: [https://gitlab.com/Roninkoi](https://gitlab.com/Roninkoi)
 
-[![RonStats](https://github-readme-stats.vercel.app/api?username=Roninkoi&show_icons=true&count_private=true&theme=cobalt)](https://github.com/Roninkoi)
-[![RonLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roninkoi&hide=javascript,html,css,dart&count_private=true&theme=cobalt&layout=compact&langs_count=8)](https://github.com/Roninkoi)
-
+<!--[![RonStats](https://github-readme-stats.vercel.app/api?username=Roninkoi&show_icons=true&count_private=true&theme=cobalt)](https://github.com/Roninkoi)-->
+<!--[![RonLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roninkoi&hide=javascript,html,css,dart&count_private=true&theme=cobalt&layout=compact&langs_count=8)](https://github.com/Roninkoi)-->
+<a href="https://github.com/Roninkoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roninkoi&show_icons=true&count_private=true&theme=cobalt" />
+</a>
+<a href="https://github.com/Roninkoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roninkoi&hide=javascript,html,css,dart&count_private=true&theme=cobalt&layout=compact&langs_count=10" />
+</a>
 <!--
 **Roninkoi/Roninkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
