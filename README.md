@@ -11,7 +11,7 @@ I try to imitate the real world inside computers
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roninkoi&show_icons=true&count_private=false&theme=cobalt" />
 </a>
 <a href="https://github.com/Roninkoi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roninkoi&hide=javascript,html,css&count_private=false&theme=cobalt&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roninkoi&hide=javascript,html,css&count_private=false&theme=cobalt&layout=compact&langs_count=8" />
 </a>
 <!--
 **Roninkoi/Roninkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
